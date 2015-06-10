@@ -1,0 +1,39 @@
+2015-05-30 21:35:06,215 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-8 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-05-30 21:35:42,591 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2015-05-30 21:35:43,372 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.String : play.utils.meta.convert.StringConverter@57ff9d69
+
+2015-05-30 21:35:43,373 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@1cc16f85
+
+2015-05-30 21:35:43,373 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@2756ee11
+
+2015-05-30 21:35:43,373 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@685e8518
+
+2015-05-30 21:35:43,518 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-05-30 21:35:44,671 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:h2:db/development
+
+2015-05-30 21:35:44,780 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.String : play.utils.meta.convert.StringConverter@2739e98a
+
+2015-05-30 21:35:44,780 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Long : play.utils.meta.convert.LongConverter@6e4c2869
+
+2015-05-30 21:35:44,780 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Integer : play.utils.meta.convert.IntegerConverter@5fa5943d
+
+2015-05-30 21:35:44,780 - [INFO] - from play.utils.meta.cp.ClasspathScanningConverterRegistry in play-internal-execution-context-1 
+Converter:class java.lang.Double : play.utils.meta.convert.DoubleConverter@5e67620a
+
+2015-05-30 21:35:44,809 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+

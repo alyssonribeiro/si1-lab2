@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Alysson\workspace\play2-crud-activator\conf\application.conf,C:\Users\Alysson\workspace\play2-crud-activator\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\Alysson\workspace\play2-crud-activator\conf\evolutions,C:\Users\Alysson\workspace\play2-crud-activator\target\scala-2.11\classes\evolutions)
+[debug] 	(C:\Users\Alysson\workspace\play2-crud-activator\conf\routes,C:\Users\Alysson\workspace\play2-crud-activator\target\scala-2.11\classes\routes)
+[debug] 	(C:\Users\Alysson\workspace\play2-crud-activator\conf\evolutions\default,C:\Users\Alysson\workspace\play2-crud-activator\target\scala-2.11\classes\evolutions\default)
+[debug] 	(C:\Users\Alysson\workspace\play2-crud-activator\conf\evolutions\default\1.sql,C:\Users\Alysson\workspace\play2-crud-activator\target\scala-2.11\classes\evolutions\default\1.sql)
